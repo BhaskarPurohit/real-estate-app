@@ -30,7 +30,7 @@ const Hero = () => {
                             50
                             <span>+</span>
                         </span>
-                        <span>Premium Villas</span>
+                        <span className='secondaryText'>Premium Villas</span>
                     </div>
 
                     <div className="flexColStart stat">
@@ -38,7 +38,7 @@ const Hero = () => {
                             200
                             <span>+</span>
                         </span>
-                        <span>Happy Families</span>
+                        <span className='secondaryText'>Happy Families</span>
                     </div>
                 </div>
             </div>
