@@ -4,11 +4,14 @@ const Hero = () => {
   return (
     <section className='hero-wrapper'>
         <div className="paddings innerWidth flexCenter hero-container">
-            <div className="hero-left">
+            <div className=" flexColStart hero-left">
                 <div className="hero-title">
-                    <h1>Discover <br />beautiful Villas</h1>
+                    <div className="orange-circle">
+                       <h1>Discover <br />beautiful Villas</h1>
+
+                    </div>
                 </div>
-                <div className="hero-des">
+                <div className="flexColStart hero-des">
                     <span>Find a variety of properties that reflect your aspirations</span>
                     <span>Forget your difficulties in finding residence for you</span>
                 </div>
