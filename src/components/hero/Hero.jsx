@@ -1,8 +1,8 @@
 import React from 'react'
 import "./hero.css"
-import {CountUp} from 'react-countup'
+import CountUp from 'react-countup'
 
-const Hero = () => {
+const Hero =()=> {
   return (
     <section className="hero-wrapper">
         <div className="paddings innerWidth flexCenter hero-container ">
@@ -14,20 +14,20 @@ const Hero = () => {
                     </h1>
                 </div>
                 <div className="flexColStart hero-desc">
-                    <span>Find a vairety of properties that suit your style</span>
-                    <span>Forget all defficulties of finding a residence</span>
+                    <span className='secondaryText'>Find a vairety of properties that suit your style</span>
+                    <span className='secondaryText'>Forget all defficulties of finding a residence</span>
                 </div>
                 <div className="search-bar">
 
                 </div>
 
                 <div className="flexCenter stats">
-                    <div className="flexColStart stat">
+                    <div className="flexColCenter stat">
                         <span> <CountUp start={0} end={200} duration={4}/>
                         <span>+</span> </span>
                         <span className='secondaryText'>Premium Products</span>
                     </div>
-                    <div className="flexColStart stat">
+                    <div className="flexColCenter stat">
                         <span> <CountUp start={0} end={200} duration={4}/>
                         <span>+</span>
                         </span>
@@ -35,7 +35,7 @@ const Hero = () => {
 
 
                     </div>
-                    <div className="flexColStart stat">
+                    <div className="flexColCenter stat">
                         <span> <CountUp start={0} end={200} duration={4}/>
                         <span>+</span>
                         </span>
