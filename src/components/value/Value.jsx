@@ -12,6 +12,7 @@ import {
 
 import "react-accessible-accordion/dist/fancy-example.css"
 import {MdOutlineArrowDropDown} from "react-icons/md"
+import data from "../../utils/accordion"
 
 const Value = () => {
   return (
@@ -33,6 +34,21 @@ const Value = () => {
                     Always ready for good customer service <br />
                     we believe goof gkdnjvnfo
                 </span>
+                <Accordion allowMultipleExpanded={false}
+                preExpanded={[0]}>
+                    {
+                        data.map((item, i)=>{
+                            return(
+                                <AccordionItem className='accordionItem'>
+                                    <AccordionItemHeading>
+                                        
+                                    </AccordionItemHeading>
+                                </AccordionItem>
+                            )
+                            })
+                    }
+
+                </Accordion>
 
                     
             </div>
