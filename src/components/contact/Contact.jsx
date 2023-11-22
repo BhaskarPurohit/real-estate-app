@@ -15,7 +15,7 @@ const Contact = () => {
                 <span>easyu to contact</span>
                 <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dolorum nulla voluptatibus.</span>
                 {/* first row  */}
-                <div className="flexColStart row">
+                <div className="flexStart row">
                     <div className="flexColCenter mode">
                         <div className="flexStart">
                             <div className="flexCenter icon">
@@ -23,7 +23,55 @@ const Contact = () => {
                             </div>
                             <div className="flexColStart detail">
                                 <span className='primaryText'>Call</span>
-                                <span>950***2345</span>
+                                <span className='secondaryText'>950***2345</span>
+                            </div>
+                        </div>
+                        <div className="flexCenter button">
+                            Call now
+                        </div>
+                    </div>
+                    {/* second mode  */}
+                    <div className="flexColCenter mode">
+                        <div className="flexStart">
+                            <div className="flexCenter icon">
+                                <BsFillChatDotsFill size={25}/>
+                            </div>
+                            <div className="flexColStart detail">
+                                <span className='primaryText'>Chat Now</span>
+                                <span className='secondaryText'>950***2345</span>
+                            </div>
+                        </div>
+                        <div className="flexCenter button">
+                            Call now
+                        </div>
+                    </div>
+                </div>
+
+                {/* second row  */}
+                <div className="flexStart row">
+                    <div className="flexColCenter mode">
+                        <div className="flexStart">
+                            <div className="flexCenter icon">
+                                <MdCall size={25}/>
+                            </div>
+                            <div className="flexColStart detail">
+                                <span className='primaryText'>Video Call</span>
+                                <span className='secondaryText'>950***2345</span>
+                            </div>
+                        </div>
+                        <div className="flexCenter button">
+                            Call now
+                        </div>
+                    </div>
+                    {/* second mode  */}
+                    <div className="flexColCenter mode">
+                        <div className="flexStart">
+                            <div className="flexCenter icon">
+                                <BsFillChatDotsFill size={25}/>
+                            </div>
+                            <div className="flexColStart detail">
+                                <span className='primaryText'>Chat Now</span>
+                                <span className='secondaryText'>950***2345</span>
                             </div>
                         </div>
                         <div className="flexCenter button">
