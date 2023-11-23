@@ -6,6 +6,8 @@ import Companies from "./components/companies/Companies";
 import Residency from "./components/residencies/Residency";
 import Value from "./components/value/Value";
 import Contact from "./components/contact/Contact";
+import GetStarted from "./components/get started/GetStarted";
+import Footer from "./components/footer/Footer";
 function App() {
   return (
 <div className="App">
@@ -18,6 +20,8 @@ function App() {
   <Residency/>
   <Value/>
   <Contact/>
+  <GetStarted/>
+  <Footer/>
 </div>  
 
 
