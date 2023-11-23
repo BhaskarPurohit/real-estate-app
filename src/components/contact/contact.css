@@ -62,7 +62,7 @@
 
 }
 
-@media (max-width: 102px){
+@media (max-width: 1024px){
     .c-container{
         flex-direction: column;
     }
