@@ -6,6 +6,7 @@ const Hero =()=> {
   return (
     <section className="hero-wrapper">
         <div className="paddings innerWidth flexCenter hero-container ">
+            {/* left side  */}
             <div className="flexColStart hero-left">
                 <div className="hero-title">
                     <div className="orange-circle"/>
@@ -13,7 +14,7 @@ const Hero =()=> {
                         Discover <br /> new villas property 
                     </h1>
                 </div>
-                <div className="flexColStart hero-desc">
+                <div className="flexColStart hero-des">
                     <span className='secondaryText'>Find a vairety of properties that suit your style</span>
                     <span className='secondaryText'>Forget all defficulties of finding a residence</span>
                 </div>
