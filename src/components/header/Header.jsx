@@ -18,9 +18,10 @@ const Header = () => {
               setMenuOpened(false)
             }}>
                   <div className="flexCenter h-menu" style={getMenuStyles(menuOpened)}>
-                      <a href="">Our Value</a>
+                      <a href="">About Us</a>
                       <a href="">Contact Us</a>
-                      <a href="">Get Started</a>
+                      <a href="">Locations</a>
+                      <a href="">Services</a>
                       <button className='button'>
                         <a href="">Book a visit</a>
                       </button>

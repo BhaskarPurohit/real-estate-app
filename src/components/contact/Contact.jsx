@@ -23,7 +23,7 @@ const Contact = () => {
                             </div>
                             <div className="flexColStart detail">
                                 <span className='primaryText'>Call</span>
-                                <span className='secondaryText'>950***2345</span>
+                                <span className='secondaryText'><a href="tel:8107117767"></a></span>
                             </div>
                         </div>
                         <div className="flexCenter button">
@@ -37,12 +37,12 @@ const Contact = () => {
                                 <BsFillChatDotsFill size={25}/>
                             </div>
                             <div className="flexColStart detail">
-                                <span className='primaryText'>Chat Now</span>
-                                <span className='secondaryText'>950***2345</span>
+                                <span className='primaryText'>Chat on Whatsapp</span>
+                                <span className='secondaryText'><a href="https://wa.me/8107117767"></a></span>
                             </div>
                         </div>
                         <div className="flexCenter button">
-                            Call now
+                            Chat now
                         </div>
                     </div>
                 </div>
@@ -55,12 +55,12 @@ const Contact = () => {
                                 <MdCall size={25}/>
                             </div>
                             <div className="flexColStart detail">
-                                <span className='primaryText'>Video Call</span>
-                                <span className='secondaryText'>950***2345</span>
+                                <span className='primaryText'>Email Us</span>
+                                <span className='secondaryText'><a href="mailto:harshsingh0610@gmail.com"/></span>
                             </div>
                         </div>
                         <div className="flexCenter button">
-                            Call now
+                            Send Email
                         </div>
                     </div>
                     {/* second mode  */}
@@ -70,12 +70,12 @@ const Contact = () => {
                                 <BsFillChatDotsFill size={25}/>
                             </div>
                             <div className="flexColStart detail">
-                                <span className='primaryText'>Chat Now</span>
-                                <span className='secondaryText'>950***2345</span>
+                                <span className='primaryText'>Book a Visit</span>
+                                <span className='secondaryText'></span>
                             </div>
                         </div>
                         <div className="flexCenter button">
-                            Call now
+                            Send Details 
                         </div>
                     </div>
                 </div>

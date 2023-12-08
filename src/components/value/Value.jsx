@@ -26,11 +26,10 @@ const Value = () => {
             </div>
             {/* right side */}
             <div className="flexColStart v-right">
-                <span className='orangeText'>Our Values</span>
-                <span className='primaryText'>Values we give to you</span>
+                <span className='orangeText'>About Us</span>
+                <span className='primaryText'>Our Vision and Mission</span>
                 <span className='secondaryText'>
-                    Lorem ipsum dolor, sit amet <br />
-                    consectetur adipisicing elit. Nisi eius mollitia reiciendis har
+                Welcome to K.B. Builders, where we are committed to fostering sustainable agriculture and rural living through the provision of land for farming and farmhouse purposes. Our mission is deeply rooted in the belief that cultivating the land not only sustains us but also nurtures communities and promotes a harmonious relationship with nature.
                 </span>
 
                 <Accordion
