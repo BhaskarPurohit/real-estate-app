@@ -8,7 +8,8 @@ import Value from "./components/value/Value";
 import Contact from "./components/contact/Contact";
 import GetStarted from "./components/get started/GetStarted";
 import Footer from "./components/footer/Footer";
-import Card from "./components/cards/Card"
+import CardComponent from "./components/cards/CardComponent"
+
 function App() {
   return (
 <div className="App">
@@ -21,7 +22,7 @@ function App() {
   <Residency/>
   <Value/>
   <Contact/>
-  <Card/>
+  <CardComponent/>
   <GetStarted/>
   <Footer/>
 </div>  
