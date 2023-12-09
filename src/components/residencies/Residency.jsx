@@ -7,7 +7,7 @@ import {SliderSettings} from "../../utils/common"
 
 const Residency = () => {
     return (
-        <section className="r-wrapper">
+        <section className="r-wrapper" id="locations">
             <div className="paddings innerWidth r-container">
                 <div className="r-head flexColStart">
                     <span className="orangeText">Best Choices</span>

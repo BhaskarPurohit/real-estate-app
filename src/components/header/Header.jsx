@@ -19,9 +19,9 @@ const Header = () => {
             }}>
                   <div className="flexCenter h-menu" style={getMenuStyles(menuOpened)}>
                       <a href="">About Us</a>
-                      <a href="">Contact Us</a>
-                      <a href="">Locations</a>
-                      <a href="">Services</a>
+                      <a href="#contact-us">Contact Us</a>
+                      <a href="#locations">Locations</a>
+                      <a href="#services">Services</a>
                       <button className='button'>
                         <a href="">Book a visit</a>
                       </button>

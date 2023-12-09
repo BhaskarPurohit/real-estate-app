@@ -8,7 +8,8 @@ import Value from "./components/value/Value";
 import Contact from "./components/contact/Contact";
 import GetStarted from "./components/get started/GetStarted";
 import Footer from "./components/footer/Footer";
-import CardComponent from "./components/cards/CardComponent"
+import CardComponent from "./components/cards/CardComponent";
+import CardsData from "./data/cards.json";
 
 function App() {
   return (
@@ -22,7 +23,14 @@ function App() {
   <Residency/>
   <Value/>
   <Contact/>
-  <CardComponent/>
+  <div className="cards">
+    {
+      CardsData.map(datum => {
+        return <CardComponent {...datum}/>
+      })
+    }
+    </div>
+   
   <GetStarted/>
   <Footer/>
 </div>  
