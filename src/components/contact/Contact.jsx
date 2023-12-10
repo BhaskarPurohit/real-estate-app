@@ -38,7 +38,7 @@ const Contact = () => {
                             </div>
                             <div className="flexColStart detail">
                                 <span className='primaryText'>Chat on Whatsapp</span>
-                                <span className='secondaryText'><a href="https://wa.me/8107117767"></a></span>
+                                <span className='secondaryText'><a href="https://wa.me/+917300272634"></a></span>
                             </div>
                         </div>
                         <div className="flexCenter button">
