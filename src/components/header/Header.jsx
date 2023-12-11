@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <section className="h-wrapper">
         <div className="flexCenter paddings innerWidth h-container">
-            <img src="./final-logo.PNG" alt="home-logo" width={100}/>
+            <img src="https://cdn.freelogodesign.org/files/555144b3a499466aa7a6e2fabbd54ce8/thumb/logo_200x200.png?v=0" alt="home-logo" width={100}/>
             <OutsideClickHandler onOutsideClick={()=>{
               setMenuOpened(false)
             }}>
