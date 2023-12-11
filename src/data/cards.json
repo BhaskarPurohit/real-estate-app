@@ -1,57 +1,57 @@
 [
     {
         "key":1,
-        "title":"lorem kinsajfn",
-        "description":"asdnjkfd  jasndjkfd v jnsadvj fg",
-        "imgSrc":"https://imgs.search.brave.com/3wVmictLTWt9H4ognR6SJFvF-Hgk7pMU2ZsU8IgHpro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDAwNzQ2/LzI1NjQvaS80NTAv/ZGVwb3NpdHBob3Rv/c18yNTY0Mjg1OS1z/dG9jay1waG90by13/YXRlci1zcHJpbmcu/anBn"
+        "title":"Good Air Quality Index",
+        "description":"A place where you do not have to struggle to breathe fresh air.",
+        "imgSrc":"../public/airquality.jpg"
 
     },
     {
         "key":2,
-        "title":"lorem kinsajfn",
-        "description":"asdnjkfd  jasndjkfd v jnsadvj fg",
-        "imgSrc":"https://imgs.search.brave.com/3wVmictLTWt9H4ognR6SJFvF-Hgk7pMU2ZsU8IgHpro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDAwNzQ2/LzI1NjQvaS80NTAv/ZGVwb3NpdHBob3Rv/c18yNTY0Mjg1OS1z/dG9jay1waG90by13/YXRlci1zcHJpbmcu/anBn"
+        "title":"Modern Infrastructure",
+        "description":"Our farm lands are developed on taking the modern infrastructure practices into account",
+        "imgSrc":"../public/modern-infra.jpeg"
 
     },
     {
         "key":3,
-        "title":"lorem kinsajfn",
-        "description":"asdnjkfd  jasndjkfd v jnsadvj fg",
-        "imgSrc":"https://imgs.search.brave.com/3wVmictLTWt9H4ognR6SJFvF-Hgk7pMU2ZsU8IgHpro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDAwNzQ2/LzI1NjQvaS80NTAv/ZGVwb3NpdHBob3Rv/c18yNTY0Mjg1OS1z/dG9jay1waG90by13/YXRlci1zcHJpbmcu/anBn"
+        "title":"Gated Community",
+        "description":"We respect your privacy and care about your safety, hence our farm lands are well gated & guarded.",
+        "imgSrc":"../public/gated-com.webp"
 
     },
     {
         "key":4,
-        "title":"lorem kinsajfn",
-        "description":"asdnjkfd  jasndjkfd v jnsadvj fg",
-        "imgSrc":"https://imgs.search.brave.com/3wVmictLTWt9H4ognR6SJFvF-Hgk7pMU2ZsU8IgHpro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDAwNzQ2/LzI1NjQvaS80NTAv/ZGVwb3NpdHBob3Rv/c18yNTY0Mjg1OS1z/dG9jay1waG90by13/YXRlci1zcHJpbmcu/anBn"
+        "title":"Organic Farms",
+        "description":"Find organic farms from where you can enjoy fresh produce that is devoid of any harmful chemicals.",
+        "imgSrc":"../public/organic-farming.jpg"
 
     },
     {
         "key":5,
-        "title":"lorem kinsajfn",
-        "description":"asdnjkfd  jasndjkfd v jnsadvj fg",
-        "imgSrc":"https://imgs.search.brave.com/3wVmictLTWt9H4ognR6SJFvF-Hgk7pMU2ZsU8IgHpro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDAwNzQ2/LzI1NjQvaS80NTAv/ZGVwb3NpdHBob3Rv/c18yNTY0Mjg1OS1z/dG9jay1waG90by13/YXRlci1zcHJpbmcu/anBn"
+        "title":"Proper Demarcated Land",
+        "description":"Properly demarcated & fenced farmland so that you do not have to worry about encrochment on your land.",
+        "imgSrc":"../public/plan.jpg"
 
     },
     {
         "key":6,
-        "title":"lorem kinsajfn",
-        "description":"asdnjkfd  jasndjkfd v jnsadvj fg",
-        "imgSrc":"https://imgs.search.brave.com/3wVmictLTWt9H4ognR6SJFvF-Hgk7pMU2ZsU8IgHpro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDAwNzQ2/LzI1NjQvaS80NTAv/ZGVwb3NpdHBob3Rv/c18yNTY0Mjg1OS1z/dG9jay1waG90by13/YXRlci1zcHJpbmcu/anBn"
+        "title":"Rain Water Harvesting",
+        "description":"Rain water harvesting system that will fulfill your need for water in emergency and on daily basis.",
+        "imgSrc":"../public/rain-water.jpg"
 
     },
     {
         "key":7,
-        "title":"lorem kinsajfn",
-        "description":"asdnjkfd  jasndjkfd v jnsadvj fg",
-        "imgSrc":"https://imgs.search.brave.com/3wVmictLTWt9H4ognR6SJFvF-Hgk7pMU2ZsU8IgHpro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDAwNzQ2/LzI1NjQvaS80NTAv/ZGVwb3NpdHBob3Rv/c18yNTY0Mjg1OS1z/dG9jay1waG90by13/YXRlci1zcHJpbmcu/anBn"
+        "title":"Solar Lights",
+        "description":"Never worry about the electricity bill and keep your farm well lit with solar lights.",
+        "imgSrc":"solar-lights.jpeg"
 
     }, {
         "key":8,
-        "title":"lorem kinsajfn",
-        "description":"asdnjkfd  jasndjkfd v jnsadvj fg",
-        "imgSrc":"https://imgs.search.brave.com/3wVmictLTWt9H4ognR6SJFvF-Hgk7pMU2ZsU8IgHpro/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDAwNzQ2/LzI1NjQvaS80NTAv/ZGVwb3NpdHBob3Rv/c18yNTY0Mjg1OS1z/dG9jay1waG90by13/YXRlci1zcHJpbmcu/anBn"
+        "title":"Smooth Commute",
+        "description":"Yes ! our farm land has a network of asphalt road so that you can take even your Sedan Car without worrying.",
+        "imgSrc":"../public/asphalt-road.jpg"
 
     }
 

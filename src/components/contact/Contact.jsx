@@ -23,27 +23,23 @@ const Contact = () => {
                             </div>
                             <div className="flexColStart detail">
                                 <span className='primaryText'>Call</span>
-                                <span className='secondaryText'><a href="tel:8107117767"></a></span>
+                                <span className='secondaryText'></span>
                             </div>
                         </div>
                         <div className="flexCenter button">
-                            Call now
+                        <a href="tel:8107117767">Call Now</a>
                         </div>
                     </div>
                     {/* second mode  */}
                     <div className="flexColCenter mode">
                         <div className="flexStart">
-                            <div className="flexCenter icon">
-                                <BsFillChatDotsFill size={25}/>
-                            </div>
+                            
                             <div className="flexColStart detail">
-                                <span className='primaryText'>Chat on Whatsapp</span>
-                                <span className='secondaryText'><a href="https://wa.me/+917300272634"></a></span>
+                                
+                                <span className='secondaryText'></span>
                             </div>
                         </div>
-                        <div className="flexCenter button">
-                            Chat now
-                        </div>
+                        
                     </div>
                 </div>
 
@@ -56,11 +52,12 @@ const Contact = () => {
                             </div>
                             <div className="flexColStart detail">
                                 <span className='primaryText'>Email Us</span>
-                                <span className='secondaryText'><a href="mailto:harshsingh0610@gmail.com"/></span>
+                                <span className='secondaryText'></span>
                             </div>
                         </div>
                         <div className="flexCenter button">
-                            Send Email
+                        <a href="mailto:harshsingh0610@gmail.com" >Send an Email</a>
+                            
                         </div>
                     </div>
                     {/* second mode  */}

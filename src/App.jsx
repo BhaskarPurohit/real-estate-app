@@ -31,7 +31,7 @@ function App() {
     }
     </div>
    
-  <GetStarted/>
+  {/* <GetStarted/> */}
   <Footer/>
 </div>  
 
