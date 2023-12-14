@@ -10,6 +10,7 @@ import GetStarted from "./components/get started/GetStarted";
 import Footer from "./components/footer/Footer";
 import CardComponent from "./components/cards/CardComponent";
 import CardsData from "./data/cards.json";
+import WhatsappIcon from "./components/whatsapp/WhatsappIcon";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
    
   {/* <GetStarted/> */}
   <Footer/>
+  <WhatsappIcon/>
 </div>  
 
 
