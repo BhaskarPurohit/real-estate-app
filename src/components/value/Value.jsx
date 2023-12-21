@@ -21,7 +21,7 @@ const Value = () => {
             {/* left section */}
             <div className="v-left">
                 <div className="image-container">
-                    <img src="./value.png" alt="" />
+                    <img src="../public/photos/value.png" alt="" />
                 </div>
             </div>
             {/* right side */}
