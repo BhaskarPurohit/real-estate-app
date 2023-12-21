@@ -58,7 +58,7 @@ const Hero =()=> {
                     duration:2,
                     type:"spring"
                 }} className="image-container">
-                    <img src="../public/photos/hero-image.png" alt="" />
+                    <img src="photos/hero-image.png" alt="" />
                 </motion.div>
 
             </div>
