@@ -10,6 +10,13 @@
     width: 100%;
 }
 
+.c-right .map-container {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
 .c-left{
     gap: 0.5rem;
 }
@@ -29,6 +36,7 @@
     border-radius: 5px;
     gap: 1rem;
     transition: all 300ms ease-in;
+    
 }
 
 .mode .button{
@@ -38,6 +46,11 @@
     font-size: 0.9rem;
     font-weight: 600;
     margin-bottom: 2rem ;
+}
+
+.mode .button a {
+    color: inherit;
+    text-decoration: inherit;
 }
 
 .mode > :nth-child(1){

@@ -1,4 +1,58 @@
-.f-container{
+section.footer {
+    width: 100%;
+    min-height: 600px;
+    background-size: cover;
+    background-position: 50% 80%;
+    background-repeat: no-repeat;
+}
+
+section.footer .dimmer {
+    background: rgb(0, 0, 0, 0.2);
+
+    /* flex: 1; */
+
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+section.footer .left {
+    width: 100%;
+    max-width: 200px;
+    background: rgb(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+section.footer .right {
+    /* backdrop-filter: blur(20px); */
+    background: transparent;
+    color: white;
+}
+
+section.footer .right .title {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+section.footer .right .subtitle {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+section.footer .right .content {
+    font-size: 17px;
+}
+
+
+/* .f-container{
     justify-content: space-around;
 }
 
@@ -20,11 +74,10 @@
     }
 }
 
-.f-wrapper{
-    background: url(C:\Users\hp\Desktop\realestate\real-estate-app\public\bg-img-footer.jpg) center no-repeat;
-    /* background-color: blue; */
-    
+.f-wrapper {
+    padding: 100px 0;
 }
+
 
 .paddings{
     width: 100%;
@@ -48,4 +101,4 @@
 
 
 
-
+ */
